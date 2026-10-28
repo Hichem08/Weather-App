@@ -4,11 +4,10 @@ A polished Expo + React Native weather app with NativeWind (Tailwind CSS), live 
 
 ## Run it locally (no hosting needed)
 1. Install Node.js LTS on your computer.
-2. Unzip this project and open a terminal in the `WeatherMe` folder.
-3. Run `npm install`
-4. Run `npx expo start`
-5. Install **Expo Go** on your Android phone, then scan the QR code shown in the terminal/browser. Your phone and computer should be on the same Wi-Fi network.
-6. For a web preview on your computer, run `npx expo start --web`.
+2. Run `npm install`
+3. Run `npx expo start`
+4. Install **Expo Go** on your Android phone, then scan the QR code shown in the terminal/browser. Your phone and computer should be on the same Wi-Fi network.
+5. For a web preview on your computer, run `npx expo start --web`.
 
 No weather API key is required. Weather and geocoding are provided by Open-Meteo:
 - Geocoding: `https://geocoding-api.open-meteo.com/v1/search`
